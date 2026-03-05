@@ -1,7 +1,23 @@
 title: David Yune
-description: Personal portfolio and blog
+description: Student • Data + Ecology • Portfolio & Blog
 theme: minima
 
+author:
+  name: David Yune
+  email: dyune@wm.edu
+
+# Shows pages in the top nav
 header_pages:
+  - about.md
   - resume.md
   - blog.md
+
+# Optional: shows social icons on the site (Minima supports these)
+minima:
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/david-yune-586252323/" }
+    - { platform: W&M Swimming, user_url: "https://tribeathletics.com/sports/swimming-and-diving/roster/david-yune/18607" }
+    - { platform: swimcloud, user_url: "https://www.swimcloud.com/swimmer/1342802/" }
+
+# Makes URLs clean
+permalink: /:categories/:year/:month/:day/:title/
