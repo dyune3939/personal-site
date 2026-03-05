@@ -1,0 +1,7 @@
+title: David Yune
+description: Personal portfolio and blog
+theme: minima
+
+header_pages:
+  - resume.md
+  - blog.md
