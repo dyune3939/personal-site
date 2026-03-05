@@ -3,8 +3,8 @@ layout: home
 title: Home
 ---
 
-# Your Name
-
+# David Yune
+<img src="/personal-site/resize.jpg" width="200" style="border-radius:50%;">
 Welcome to my personal site.
 
 I am a student interested in technology, data, and problem solving.
