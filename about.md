@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<div style="background:#f8f8fc; border:1px solid #e8e8ef; border-radius:24px; padding:32px; margin-top:10px;">
+
 ## About Me
 
 Outside of swimming and school, I enjoy coaching younger swimmers, playing and listening to music, and all things LEGO.
@@ -43,3 +45,5 @@ My experiences in athletics, arts, and leadership have shaped my interest in sci
   <source src="/personal-site/MVI_0199-original-video-019bbddd-53ea-70f5-9195-5ca46dff6952.MP4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+</div>
