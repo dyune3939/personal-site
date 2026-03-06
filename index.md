@@ -4,11 +4,15 @@ title: Home
 ---
 
 # David Yune
-<img src="/personal-site/resize.jpg" width="200" style="border-radius:50%;">
-Welcome to my personal site.
+<p align="center">
+<img src="/resize.webp" width="220" style="border-radius:50%; margin-bottom:15px;">
+</p>
+Welcome to my personal site!
 
-I am a student interested in technology, data, and problem solving.
+I am a student-athlete on William and Mary's Varsity Swimming team.
+When I am not in the water, I'm studying biology and data science.
+I plan to combine the knowledge and skills from both of these fields as part of my path to medical school.
 
 This site includes:
 - My resume
-- A blog where I write about things I'm learning
+- A blog where I write about anything and everything!
