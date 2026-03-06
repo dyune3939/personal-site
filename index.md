@@ -1,23 +1,29 @@
 ---
-layout: home
+layout: page
 title: Home
+permalink: /
 ---
+
 <div style="display:flex; align-items:center; gap:30px; flex-wrap:wrap;">
 
-<img src="/resize.webp" width="220" style="border-radius:50%;">
+  <img src="/personal-site/resize.webp" width="220" style="border-radius:50%;">
 
-<div>
-# David Yune
-Welcome to my personal site!
+  <div style="flex:1; min-width:260px;">
 
-I am a student-athlete on William and Mary's Varsity Swimming team.
-When I am not in the water, I'm studying biology and data science.
-I plan to combine the knowledge and skills from both of these fields as part of my path to medical school.
+    <h1 style="margin-bottom:10px;">David Yune</h1>
 
-- [Resume](/resume/)
-- [Blog](/blog/)
-- [About](/about/)
+    <p>
+      Welcome to my personal site! I am a student-athlete on William &amp; Mary’s varsity swimming team.
+      When I am not in the water, I’m studying biology and data science. I hope to combine both fields
+      as part of my path toward medical school.
+    </p>
 
-</div>
+    <p>
+      <a href="/personal-site/resume/">Resume</a> ·
+      <a href="/personal-site/blog/">Blog</a> ·
+      <a href="/personal-site/about/">About</a>
+    </p>
+
+  </div>
 
 </div>
