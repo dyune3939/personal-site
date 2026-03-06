@@ -18,11 +18,6 @@ permalink: /
       as part of my path toward medical school.
     </p>
 
-    <p>
-      <a href="/personal-site/resume/">Resume</a> ·
-      <a href="/personal-site/blog/">Blog</a> ·
-      <a href="/personal-site/about/">About</a>
-    </p>
 
   </div>
 
