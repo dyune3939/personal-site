@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Blog
+permalink: /blog/
 ---
 
-Below are my blog posts.
+Short posts about my academic work, projects, and things I’m learning.
 
 {% raw %}{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
+- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}{% endraw %}
