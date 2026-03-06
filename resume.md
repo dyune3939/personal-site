@@ -3,111 +3,119 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
+
 <div style="background:#f8f8fc; border:1px solid #e8e8ef; border-radius:24px; padding:32px; margin-top:10px;">
-  
-## Education
 
-**William & Mary — Williamsburg, VA**  
-Bachelor of Science in Biology  
-Minor: Data Science  
-Expected Graduation: May 2027
+  <h2>Education</h2>
 
-Relevant Coursework:
-- Introductory Biology
-- General Chemistry I–II
-- Organic Chemistry I–II
-- Physics I–II
-- Microbiology
-- Molecular Genetics
-- Biochemistry
-- Intro Marine Science
-- Aquatic Ecology
+  <p><strong>William &amp; Mary — Williamsburg, VA</strong><br>
+  Bachelor of Science in Biology<br>
+  Minor: Data Science<br>
+  Expected Graduation: May 2027</p>
 
----
+  <p><strong>Relevant Coursework:</strong> Introductory Biology, General Chemistry I–II, Organic Chemistry I–II, Physics I–II, Microbiology, Molecular Genetics, Biochemistry, Intro Marine Science, Aquatic Ecology</p>
 
-## Research Experience
+  <hr>
 
-**Undergraduate Research Assistant — Delwiche Lab**  
-University of Maryland Biological Research Department  
-June 2024 – August 2024
+  <h2>Research Experience</h2>
 
-- Designed and conducted a multi-week experiment testing the desiccation limits of *Haloferax volcanii* archaea  
-- Contributed to research exploring evolutionary aspects of eukaryotic meiosis
-- Practiced sterile laboratory techniques and procedures
+  <p><strong>Undergraduate Research Assistant — Delwiche Lab</strong><br>
+  University of Maryland Biological Research Department<br>
+  June 2024 – August 2024</p>
 
-**Undergraduate Research Assistant — Das Lab**  
-College of William and Mary Biological Research Department  
-March 2026 – Present
+  <ul>
+    <li>Designed and conducted a multi-week experiment testing the desiccation limits of <em>Haloferax volcanii</em> archaea</li>
+    <li>Contributed to research exploring evolutionary aspects of eukaryotic meiosis</li>
+    <li>Practiced sterile laboratory techniques and procedures</li>
+  </ul>
 
-- Assisted in passaging of C. Elegans cultures as part of developmental biological research
-- Honed wet lab skills and laboratory competency
+  <p><strong>Undergraduate Research Assistant — Das Lab</strong><br>
+  College of William &amp; Mary Biological Research Department<br>
+  March 2026 – Present</p>
 
----
+  <ul>
+    <li>Assisted in passaging of <em>C. elegans</em> cultures as part of developmental biological research</li>
+    <li>Honed wet lab skills and laboratory competency</li>
+  </ul>
 
-## Athletics
+  <hr>
 
-**NCAA Division I Swimmer — William & Mary**  
-August 2023 – Present
+  <h2>Athletics</h2>
 
-- Balance ~20 hours per week of training with a full academic workload  
-- Travel frequently for collegiate competitions  
-- Multiple-time medalist at CAA Conference Championships (2024–2026)
+  <p><strong>NCAA Division I Swimmer — William &amp; Mary</strong><br>
+  August 2023 – Present</p>
 
----
+  <ul>
+    <li>Balance approximately 20 hours per week of training with a full academic workload</li>
+    <li>Travel frequently for collegiate competition</li>
+    <li>Multiple-time finalist at CAA Conference Championships (2024–2026)</li>
+  </ul>
 
-## Professional Experience
+  <hr>
 
-**Rehabilitation Physical Therapy Technician**  
-Adventist Healthcare — Rockville, MD  
-January 2023 – August 2023
+  <h2>Professional Experience</h2>
 
-- Assisted physical therapists with patient care and treatment procedures  
-- Helped manage patient exercise routines and rehabilitation programs  
-- Provided emotional support and guidance to patients during recovery
+  <p><strong>Rehabilitation Physical Therapy Technician</strong><br>
+  Adventist Healthcare — Rockville, MD<br>
+  January 2023 – August 2023</p>
 
----
+  <ul>
+    <li>Assisted physical therapists with patient care and treatment procedures</li>
+    <li>Helped manage patient exercise routines and rehabilitation programs</li>
+    <li>Provided emotional support and guidance to patients during recovery</li>
+  </ul>
 
-## Coaching & Teaching Experience
+  <hr>
 
-**Assistant Swim Coach**  
-Stonebridge Sharks Swim Team — Potomac, MD  
-May 2023 – August 2024
+  <h2>Coaching &amp; Teaching Experience</h2>
 
-- Helped manage a summer swim program with over 400 athletes  
-- Developed daily training plans and organized weekly swim meets  
-- Coordinated with parents, league officials, and other coaches
+  <p><strong>Assistant Swim Coach</strong><br>
+  Stonebridge Sharks Swim Team — Potomac, MD<br>
+  May 2023 – August 2024</p>
 
-**Private Swim Instructor**  
-Freelance — Potomac, MD  
-May 2022 – August 2024
+  <ul>
+    <li>Helped manage a summer swim program with more than 400 athletes</li>
+    <li>Developed daily training plans and organized weekly swim meets</li>
+    <li>Coordinated with parents, league officials, and other coaches</li>
+  </ul>
 
-- Designed personalized swim instruction plans  
-- Taught private lessons to children ages 8–14
+  <p><strong>Private Swim Instructor</strong><br>
+  Freelance — Potomac, MD<br>
+  May 2022 – August 2024</p>
 
----
+  <ul>
+    <li>Designed personalized swim instruction plans</li>
+    <li>Taught private lessons to children ages 8–14</li>
+  </ul>
 
-## Leadership & Community Involvement
+  <hr>
 
-**Church Band Drummer**  
-Bethany Presbyterian Church — Gaithersburg, MD  
-August 2018 – Present
+  <h2>Leadership &amp; Community Involvement</h2>
 
-- Perform during church services and special events  
-- Assist with community events and youth programs  
-- Coordinate with band members to plan performances
+  <p><strong>Church Band Drummer</strong><br>
+  Bethany Presbyterian Church — Gaithersburg, MD<br>
+  August 2018 – Present</p>
 
----
+  <ul>
+    <li>Perform during church services and special events</li>
+    <li>Assist with community events and youth programs</li>
+    <li>Coordinate with band members to plan performances</li>
+  </ul>
 
-## Skills & Certifications
+  <hr>
 
-**Programming:** Python, R  
-**Certifications:** Basic Life Support (BLS)
+  <h2>Skills &amp; Certifications</h2>
 
----
+  <p><strong>Programming:</strong> Python, R<br>
+  <strong>Certifications:</strong> Basic Life Support (BLS)</p>
 
-## Honors & Awards
+  <hr>
 
-- Provost Award Winner  
-- Dean’s List
+  <h2>Honors &amp; Awards</h2>
+
+  <ul>
+    <li>Provost Award Winner</li>
+    <li>Dean’s List</li>
+  </ul>
 
 </div>
