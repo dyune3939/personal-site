@@ -3,15 +3,8 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-
-# David Yune
-
-Rockville, MD  
-dyune@wm.edu  
-[LinkedIn](https://www.linkedin.com/in/david-yune-586252323)
-
----
-
+<div style="background:#f8f8fc; border:1px solid #e8e8ef; border-radius:24px; padding:32px; margin-top:10px;">
+  
 ## Education
 
 **William & Mary — Williamsburg, VA**  
@@ -116,3 +109,5 @@ August 2018 – Present
 
 - Provost Award Winner  
 - Dean’s List
+
+</div>
