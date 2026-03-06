@@ -9,13 +9,7 @@ header_pages:
   - index.md
   - resume.md
   - blog.md
-
-# Optional: shows social icons on the site (Minima supports these)
-minima:
-  social_links:
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/david-yune-586252323/" }
-    - { platform: W&M Swimming, user_url: "https://tribeathletics.com/sports/swimming-and-diving/roster/david-yune/18607" }
-    - { platform: swimcloud, user_url: "https://www.swimcloud.com/swimmer/1342802/" }
+  - about.md
 
 # Makes URLs clean
 permalink: /:categories/:year/:month/:day/:title/
