@@ -6,7 +6,7 @@ email: dyune@wm.edu
 
 # Shows pages in the top nav
 header_pages:
-  - home.md
+  - index.md
   - resume.md
   - blog.md
 
