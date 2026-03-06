@@ -1,10 +1,8 @@
 title: David Yune
-description: Student • Data + Ecology • Portfolio & Blog
+description: Student Athlete • Data + Biology • Portfolio & Blog
 theme: minima
-
-author:
-  name: David Yune
-  email: dyune@wm.edu
+author: David Yune
+email: dyune@wm.edu
 
 # Shows pages in the top nav
 header_pages:
