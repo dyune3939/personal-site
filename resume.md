@@ -37,9 +37,16 @@ Relevant Coursework:
 University of Maryland Biological Research Department  
 June 2024 – August 2024
 
-- Practiced sterile laboratory techniques and procedures  
 - Designed and conducted a multi-week experiment testing the desiccation limits of *Haloferax volcanii* archaea  
-- Contributed to research exploring aspects of eukaryotic meiosis
+- Contributed to research exploring evolutionary aspects of eukaryotic meiosis
+- Practiced sterile laboratory techniques and procedures
+
+**Undergraduate Research Assistant — Das Lab**  
+College of William and Mary Biological Research Department  
+March 2026 – Present
+
+- Assisted in passaging of C. Elegans cultures as part of developmental biological research
+- Honed wet lab skills and laboratory competency
 
 ---
 
@@ -50,7 +57,7 @@ August 2023 – Present
 
 - Balance ~20 hours per week of training with a full academic workload  
 - Travel frequently for collegiate competitions  
-- Multiple-time finalist at CAA Conference Championships (2024–2026)
+- Multiple-time medalist at CAA Conference Championships (2024–2026)
 
 ---
 
