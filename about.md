@@ -42,9 +42,9 @@ permalink: /about/
 
   <hr>
 
-  <h2>A Cool Video</h2>
+  <h2>Video</h2>
 
-  <video controls width="100%" style="max-width:1000px; border-radius:16px; margin-top:20px;">
+  <video controls width="100%" style="max-width:700px; border-radius:16px; margin-top:20px;">
     <source src="/personal-site/MVI_0199-original-video-019bbddd-53ea-70f5-9195-5ca46dff6952.MP4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
